@@ -1,5 +1,4 @@
-# Ivarr95.github.io
-👤 About me
+#👤 About me
 
 Soy Ingeniero QA con experiencia en software embebido automotriz, actualmente enfocado en mi transición y desarrollo en el ámbito del desarrollo web. Mi pasión se centra en asegurar y elevar la calidad de los procesos y metodologías dentro de proyectos tecnológicos.
 Me considero una persona metódica, analítica, con mentalidad resolutiva y un fuerte espíritu colaborativo. Mantengo un compromiso constante con el aprendizaje de nuevas tecnologías y la mejora continua de mis habilidades profesionales.
