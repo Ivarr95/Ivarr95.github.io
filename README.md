@@ -1,9 +1,8 @@
 # Ivarr95.github.io
-👤 Sobre mí
-¡Hola! Soy [Tu Nombre], [tu profesión o área de especialización, ej: Desarrollador Full Stack, Data Scientist, etc.].
-Me apasiona [breve descripción de tus intereses, ej: crear soluciones tecnológicas innovadoras, analizar datos para tomar decisiones, etc.].
-Siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades para enfrentar desafíos interesantes.
-🛠 Habilidades técnicas
+👤 About me
+
+Soy Ingeniero QA con experiencia en software embebido automotriz, actualmente enfocado en mi transición y desarrollo en el ámbito del desarrollo web. Mi pasión se centra en asegurar y elevar la calidad de los procesos y metodologías dentro de proyectos tecnológicos.
+Me considero una persona metódica, analítica, con mentalidad resolutiva y un fuerte espíritu colaborativo. Mantengo un compromiso constante con el aprendizaje de nuevas tecnologías y la mejora continua de mis habilidades profesionales.
 Lenguajes de programación:
 [Ej: JavaScript, Python, Java, C#]
 
