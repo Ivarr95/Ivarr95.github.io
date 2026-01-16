@@ -1,7 +1,9 @@
-#👤 About me
+# Take a look of what I have worked
+## 👤 About me
 
-Soy Ingeniero QA con experiencia en software embebido automotriz, actualmente enfocado en mi transición y desarrollo en el ámbito del desarrollo web. Mi pasión se centra en asegurar y elevar la calidad de los procesos y metodologías dentro de proyectos tecnológicos.
-Me considero una persona metódica, analítica, con mentalidad resolutiva y un fuerte espíritu colaborativo. Mantengo un compromiso constante con el aprendizaje de nuevas tecnologías y la mejora continua de mis habilidades profesionales.
+I am a QA Engineer with experience in automotive embedded software, currently focused on  transitioninginto and developing within the web development field. My passion lies in ensuring and enhancing the quality of processes and methodologies in technology projects. <br>
+I consider myself methodical, analytical, with a solution-oriented mindset and a strong collaborative spirit. I maintain a constant commitment to learning new technologies and the continuous improvement of my professional skills.
+
 Lenguajes de programación:
 [Ej: JavaScript, Python, Java, C#]
 
