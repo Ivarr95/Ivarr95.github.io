@@ -1,38 +1,54 @@
-# Take a look of what I have worked
+# <p style="text-align:center;">My portfolio as QA Engineer!</p>
+
 ## 👤 About me
 
-I am a QA Engineer with experience in automotive embedded software, currently focused on  transitioninginto and developing within the web development field. My passion lies in ensuring and enhancing the quality of processes and methodologies in technology projects. <br>
+I am a **Quality Assurance (QA)** Engineer with experience in **automotive embedded software**, currently focused on  transitioning into and developing within the web development field. My passion lies in ensuring and enhancing the quality of processes and methodologies in technology projects. <br>
 I consider myself methodical, analytical, with a solution-oriented mindset and a strong collaborative spirit. I maintain a constant commitment to learning new technologies and the continuous improvement of my professional skills.
 
-Lenguajes de programación:
-[Ej: JavaScript, Python, Java, C#]
+## 🛠 Technical Skills <br>
+Testing Methodologies
++ Manual Testing
 
-[Agrega los que uses]
++ Automated Testing
 
-Frontend:
-[Ej: React, Vue.js, HTML5, CSS3, Sass]
++ Smoke Testing
 
-[Agrega los que uses]
++ Regression Testing
 
-Backend:
-[Ej: Node.js, Express, Django, Spring Boot]
++ Functional Testing
 
-[Agrega los que uses]
+Automotive Testing
+Vector CANoe / CANalyzer
 
-Bases de datos:
-[Ej: MySQL, PostgreSQL, MongoDB, Firebase]
+Diagnostic Engineering Tool (DET)
 
-[Agrega los que uses]
+Web Testing
+Selenium
 
-Herramientas y tecnologías:
-[Ej: Git, Docker, AWS, Figma, Jenkins]
+Postman
 
-[Agrega los que uses]
+Project Management & Version Control
+Jira
 
-Otros:
-[Ej: Metodologías Ágiles, Scrum, SEO]
+Rational Team Concert (RTC)
 
-[Agrega los que uses]
+Git
+
+Agile / Scrum
+
+Programming & Scripting
+Python
+
+C++
+
+MATLAB
+
+Assembly
+
+Languages
+English (C1 Advanced)
+
+Spanish (Native)
 
 📂 Proyectos
 [Nombre del Proyecto 1]
@@ -55,14 +71,11 @@ Demo: [URL del demo si está desplegado]
 
 (Puedes agregar más proyectos según sea necesario)
 
-📞 Formas de contactarme
+## 📞 Contact me
 ¡Me encantaría conectar contigo! Puedes contactarme a través de:
 
-Email: [tu.email@ejemplo.com]
-
-LinkedIn: [URL de tu perfil de LinkedIn]
-
-Twitter/X: [@tuusuario]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivarr95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivar-rmz/)
 
 Sitio web personal: [URL de tu sitio web si tienes]
 
