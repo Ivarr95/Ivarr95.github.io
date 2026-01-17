@@ -3,15 +3,14 @@
 ## 📖 Index
 - [📖 Index](#-index)
 - [👤 About me](#-about-me)
-- [🛠 Technical Skills ](#-technical-skills-)
+- [🛠 Tech Skills ](#-tech-skills-)
   - [Automotive Testing](#automotive-testing)
   - [Web Testing](#web-testing)
   - [Project Management \& Version Control](#project-management--version-control)
   - [Programming \& Scripting](#programming--scripting)
-  - [Languages](#languages)
-- [📂 Projects](#-projects)
+- [📂 My Projects](#-my-projects)
+  - [🛍️ Urban.Grocers web app API testing](#️-urbangrocers-web-app-api-testing)
   - [Urban Routes web app testing](#urban-routes-web-app-testing)
-  - [Urban Grocers web app API testing](#urban-grocers-web-app-api-testing)
 - [📞 Contact me](#-contact-me)
 ## 👤 About me
 
@@ -20,7 +19,7 @@ I consider myself **methodical**, **analytical**, with a **solution-oriented min
 My professional background has provided me with experience in various **testing methodologies**, including **manual testing**, **automated testing**, **smoke testing**, **regression testing** and **functional testing**. Most of my work has followed **Agile/Scrum frameworks**, ensuring quality in iterative development cycles. 
 
 
-## 🛠 Technical Skills <br>
+## 🛠 Tech Skills <br>
 
 ### Automotive Testing
 + Vector CANoe / CANalyzer
@@ -42,22 +41,31 @@ My professional background has provided me with experience in various **testing 
 + MATLAB
 + Assembly
 
-### Languages
-+ English (C1 Advanced)
-+ Spanish (Native)
+## 📂 My Projects
+### 🛍️ Urban.Grocers web app API testing
+**Urban.Grocers** is a web application for purchasing products online through themed kits, simplifying the acquisition of items for specific events like parties, gatherings, or standard shopping lists. <br>
+As the **QA Engineer** on this project, I was tasked with validating updates to the kit processing logic within the application's API. The API specifications were documented using Apidoc.
+I developed a comprehensive **Postman** collection to structure and execute test scenarios. This allowed me to systematically validate various test cases derived from the requirements. All defects identified during testing were logged, tracked, and managed through **Jira**, ensuring clear communication with the development team and contributing to endpoint stability and final product quality.
+<br>
 
-## 📂 Projects
+**Key Results & Impact** :
++ Created and executed a detailed test plan comprising **40 test cases**, ensuring full coverage of the update's requirements.
++ Built a reusable Postman collection with **6 core functions**, streamlining the API testing process.
++ Identified, documented, and reported **17 defects in Jira**, including **4 critical-severity bugs**, preventing major issues from reaching production.
+ 
+**Tech & Tools**: Postman, API testing, Functional Testing, Test Case Design, Defect & Tracking Management (Jira).
+
+Enlace al repositorio: [URL del repo]
+Demo: [URL del demo si está desplegado]
+
 ### Urban Routes web app testing
 Descripción breve: [Explica qué hace el proyecto].
 Tecnologías utilizadas: [Lista de tecnologías].
+Urban routes es una aplicación para solicitar servicios de transporte personal  para 
 Enlace al repositorio: [URL del repo]
 Demo: [URL del demo si está desplegado]
 
-### Urban Grocers web app API testing
-Descripción breve: [Explica qué hace el proyecto].
-Tecnologías utilizadas: [Lista de tecnologías].
-Enlace al repositorio: [URL del repo]
-Demo: [URL del demo si está desplegado]
+
 
 
 ## 📞 Contact me
