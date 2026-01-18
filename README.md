@@ -49,7 +49,8 @@ I developed a comprehensive **Postman** collection to structure and execute test
 + Built a reusable Postman collection with **6 core functions**, streamlining the API testing process.
 + Identified, documented, and reported **17 defects in Jira**, including **4 critical-severity bugs**, preventing major issues from reaching production.
  
-**Tech & Tools**: Postman, API testing, Functional Testing, Test Case Design, Jira.
+**Tech & Tools**: <br>
+![Static Badge](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white) ![Static Badge](https://img.shields.io/badge/API_Testing-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Functional_Testing-turquoise?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Test_Case_Desing-436fc7?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue)
 
 **Documentation:** --> [here](https://docs.google.com/spreadsheets/d/1Y5E2fdIlmZP4cGZB2Mc6PGxTToSjCyLT/edit?usp=sharing&ouid=109937368038705362754&rtpof=true&sd=true)
 
@@ -77,8 +78,8 @@ I developed a structured test plan that included detailed verification points an
 + Executed compatibility and usability tests across two different browser environments and multiple responsive views, using **DevTools** for in-depth diagnostics.
 + Detected, analyzed, and reported 30 defects in **Jira**, with two classified as critical severity, preventing major impacts on the user experience.
   
-**Tech & Tools**: 
-![Static Badge](https://img.shields.io/badge/manual_testing-blue?style=for-the-badge) | ![Static Badge](https://img.shields.io/badge/Test_Case_Desing-turquoise?style=for-the-badge) | ![Static Badge](https://img.shields.io/badge/Test_Case_Desing-436fc7?style=for-the-badge) | ![Static Badge](https://img.shields.io/badge/Chrome_DevTools-gray?style=for-the-badge&logo=googlechrome&logoColor=red) | ![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue)
+**Tech & Tools**: <br>
+![Static Badge](https://img.shields.io/badge/manual_testing-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Test_Case_Desing-turquoise?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Test_Case_Desing-436fc7?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Chrome_DevTools-gray?style=for-the-badge&logo=googlechrome&logoColor=red) ![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue)
 
 **Documentation:** --> [here](https://docs.google.com/spreadsheets/d/1Tm2kis_QVt98a79qgBkGTrraMB0npTVS/edit?usp=sharing&ouid=109937368038705362754&rtpof=true&sd=true)
 
