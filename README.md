@@ -4,13 +4,7 @@
 - [📖 Index](#-index)
 - [👤 About me](#-about-me)
 - [🛠 Tech Skills ](#-tech-skills-)
-  - [Automotive Testing](#automotive-testing)
-  - [Web Testing](#web-testing)
-  - [Project Management \& Version Control](#project-management--version-control)
-  - [Programming \& Scripting](#programming--scripting)
 - [📂 My Projects](#-my-projects)
-  - [🛍️ Urban.Grocers web app API testing](#️-urbangrocers-web-app-api-testing)
-  - [Urban.Routes web app testing](#urbanroutes-web-app-testing)
 - [📞 Contact me](#-contact-me)
 
 
