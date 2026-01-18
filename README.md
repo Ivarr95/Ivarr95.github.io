@@ -17,25 +17,18 @@ My professional background has provided me with experience in various **testing 
 
 ## 🛠 Tech Skills <br>
 
-### Automotive Testing
-+ Vector CANoe / CANalyzer
-+ Diagnostic Engineering Tool (DET)
+### Automotive Testing <br>
+![Static Badge](https://img.shields.io/badge/CANoe-red?style=for-the-badge&logo=viaplay&logoColor=white) ![Static Badge](https://img.shields.io/badge/CANalyzer-red?style=for-the-badge&logo=viaplay&logoColor=white) ![Static Badge](https://img.shields.io/badge/DET-blue?style=for-the-badge)
 
-### Web Testing
-+ Selenium
-+ Postman
 
-### Project Management & Version Control
-+ Jira
-+ Rational Team Concert (RTC)
-+ Git
-+ Agile / Scrum
+### Web Testing <br>
+![Static Badge](https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Static Badge](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 
-### Programming & Scripting
-+ Python
-+ C++
-+ MATLAB
-+ Assembly
+### Project Management & Version Control <br>
+![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue) ![Static Badge](https://img.shields.io/badge/IBM%20RTC-%2300a4d1?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Programming & Scripting <br>
+![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-%233776AB?style=for-the-badge&logo=cplusplus&logoColor=white) ![Static Badge](https://img.shields.io/badge/MATLAB-bb5814?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Assembly-%23007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ## 📂 My Projects
 ### 🛍️ Urban.Grocers web app API testing
