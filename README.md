@@ -4,13 +4,7 @@
 - [📖 Index](#-index)
 - [👤 About me](#-about-me)
 - [🛠 Tech Skills ](#-tech-skills-)
-  - [Automotive Testing](#automotive-testing)
-  - [Web Testing](#web-testing)
-  - [Project Management \& Version Control](#project-management--version-control)
-  - [Programming \& Scripting](#programming--scripting)
 - [📂 My Projects](#-my-projects)
-  - [🛍️ Urban.Grocers web app API testing](#️-urbangrocers-web-app-api-testing)
-  - [🚕 Urban.Routes web app testing](#-urbanroutes-web-app-testing)
 - [📞 Contact me](#-contact-me)
 
 
@@ -72,6 +66,7 @@ I developed a comprehensive **Postman** collection to structure and execute test
   </a>  
 </div>
 
+
 ### 🚕 Urban.Routes web app testing
 **Urban.Routes** is a web application for requesting urban transportation services and optimizing routes. The platform offers a diverse catalog of options, including taxis, carpooling, bicycles, and scooters. <br>
 As a member of the Quality Assurance (QA) team, I was responsible for the comprehensive validation of the design and functionality of the new *"Carpool"* feature. **Functional requirements** and **user interface (UI)** designs were provided to me in PDF documents and **Figma** mockups, respectively.
@@ -82,7 +77,8 @@ I developed a structured test plan that included detailed verification points an
 + Executed compatibility and usability tests across two different browser environments and multiple responsive views, using **DevTools** for in-depth diagnostics.
 + Detected, analyzed, and reported 30 defects in **Jira**, with two classified as critical severity, preventing major impacts on the user experience.
   
-**Tech & Tools**: Manual Testing | Test Case Design | Cross-Browser Testing | Responsive Design Testing | Chrome DevTools | Jira
+**Tech & Tools**: 
+![Static Badge](https://img.shields.io/badge/manual_testing-blue?style=for-the-badge) | ![Static Badge](https://img.shields.io/badge/Test_Case_Desing-turquoise?style=for-the-badge) | ![Static Badge](https://img.shields.io/badge/Test_Case_Desing-436fc7?style=for-the-badge) | ![Static Badge](https://img.shields.io/badge/Chrome_DevTools-gray?style=for-the-badge&logo=googlechrome&logoColor=red) | ![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue)
 
 **Documentation:** --> [here](https://docs.google.com/spreadsheets/d/1Tm2kis_QVt98a79qgBkGTrraMB0npTVS/edit?usp=sharing&ouid=109937368038705362754&rtpof=true&sd=true)
 
