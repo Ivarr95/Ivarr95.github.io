@@ -4,7 +4,13 @@
 - [📖 Index](#-index)
 - [👤 About me](#-about-me)
 - [🛠 Tech Skills ](#-tech-skills-)
+  - [Automotive Testing](#automotive-testing)
+  - [Web Testing](#web-testing)
+  - [Project Management \& Version Control](#project-management--version-control)
+  - [Programming \& Scripting](#programming--scripting)
 - [📂 My Projects](#-my-projects)
+  - [🛍️ Urban.Grocers web app API testing](#️-urbangrocers-web-app-api-testing)
+  - [🚕 Urban.Routes web app testing](#-urbanroutes-web-app-testing)
 - [📞 Contact me](#-contact-me)
 
 
@@ -51,8 +57,20 @@ I developed a comprehensive **Postman** collection to structure and execute test
  
 **Tech & Tools**: Postman, API testing, Functional Testing, Test Case Design, Jira.
 
-Enlace al repositorio: [URL del repo]
-Demo: [URL del demo si está desplegado]
+**Documentation:** --> [here](https://docs.google.com/spreadsheets/d/1Y5E2fdIlmZP4cGZB2Mc6PGxTToSjCyLT/edit?usp=sharing&ouid=109937368038705362754&rtpof=true&sd=true)
+
+**Test Evidence**:
+
+<div style="display:flex; gap:10px;">
+  <a href="assets/ProjectsEvidence/BR054_2.png" target="_blank">
+    <img src="assets/ProjectsEvidence/BR054_2.png" alt="Postman test" width="550"/>
+  </a>  
+</div>
+<div style="display:flex; gap:10px;">
+  <a href="assets\ProjectsEvidence\UrbanGrocersBugs.png" target="_blank">
+    <img src="assets\ProjectsEvidence\UrbanGrocersBugs.png" alt="Postman test" width="550"/>
+  </a>  
+</div>
 
 ### 🚕 Urban.Routes web app testing
 **Urban.Routes** is a web application for requesting urban transportation services and optimizing routes. The platform offers a diverse catalog of options, including taxis, carpooling, bicycles, and scooters. <br>
@@ -66,14 +84,26 @@ I developed a structured test plan that included detailed verification points an
   
 **Tech & Tools**: Manual Testing | Test Case Design | Cross-Browser Testing | Responsive Design Testing | Chrome DevTools | Jira
 
-Enlace al repositorio: [URL del repo]
-Demo: [URL del demo si está desplegado]
+**Documentation:** --> [here](https://docs.google.com/spreadsheets/d/1Tm2kis_QVt98a79qgBkGTrraMB0npTVS/edit?usp=sharing&ouid=109937368038705362754&rtpof=true&sd=true)
 
+**Test Evidence**:
 
+<div style="display:flex; gap:10px;">
+  <a href="assets/ProjectsEvidence/BR012.png" target="_blank">
+    <img src="assets/ProjectsEvidence/BR012.png" alt="Postman test" width="550"/>
+  </a>  
+</div>
+<div style="display:flex; gap:10px;">
+  <a href="assets\ProjectsEvidence\UrbanRoutessBugs.png" target="_blank">
+    <img src="assets\ProjectsEvidence\UrbanRoutesBugs.png" alt="Postman test" width="550"/>
+  </a>  
+</div>
+
++ [Video evidence here](assets/ProjectsEvidence/BR013.mp4)
 
 
 ## 📞 Contact me
-¡Me encantaría conectar contigo! Puedes contactarme a través de:
+I´m available for new oportunities and would love to chat with you!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivarr95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivar-rmz/)
