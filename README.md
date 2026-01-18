@@ -1,7 +1,7 @@
 <h1 align=center>My portfolio as QA Engineer!</h1>
 
 ## 📖 Index
-- [📖 Index](#-index)
+
 - [👤 About me](#-about-me)
 - [🛠 Tech Skills ](#-tech-skills-)
 - [📂 My Projects](#-my-projects)
