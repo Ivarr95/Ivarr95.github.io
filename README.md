@@ -54,13 +54,12 @@ I developed a comprehensive **Postman** collection to structure and execute test
 Enlace al repositorio: [URL del repo]
 Demo: [URL del demo si está desplegado]
 
-### Urban.Routes web app testing
+### 🚕 Urban.Routes web app testing
 **Urban.Routes** is a web application for requesting urban transportation services and optimizing routes. The platform offers a diverse catalog of options, including taxis, carpooling, bicycles, and scooters. <br>
 As a member of the Quality Assurance (QA) team, I was responsible for the comprehensive validation of the design and functionality of the new *"Carpool"* feature. **Functional requirements** and **user interface (UI)** designs were provided to me in PDF documents and **Figma** mockups, respectively.
 I developed a structured test plan that included detailed verification points and formal test cases. Execution involved **manual testing**, performing **cross-browser compatibility testing** on Google Chrome and Mozilla Firefox, and **responsive design validation** across multiple screen resolutions. I used **browser DevTools** to inspect application behavior, monitor network requests, and verify correct backend communication. Every identified defect was documented, prioritized, and formally reported in Jira for tracking. <br>
 
 **Key Results & Impact**:
-
 + Developed a comprehensive test plan with **85 verification points** and **14 formal test cases**, covering both design **(UI/UX)** and functionality. This process included clarifying ambiguous requirements.
 + Executed compatibility and usability tests across two different browser environments and multiple responsive views, using **DevTools** for in-depth diagnostics.
 + Detected, analyzed, and reported 30 defects in **Jira**, with two classified as critical severity, preventing major impacts on the user experience.
