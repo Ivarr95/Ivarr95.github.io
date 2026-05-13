@@ -1,0 +1,332 @@
+{
+  "info": {
+    "_postman_id": "7abccab0-06be-444b-b6b3-f368a62f7522",
+    "name": "Urban.Grocers Kits management",
+    "description": "This collection is all you need for the latest kit upate in Urban.Grocers App.\n\nContains:\n\n- New User post\n    \n- New kit post\n    \n- Get kits by user (defect posted)\n    \n- Get kits by name\n    \n- Add products to kit post\n    \n- Service request \"order & go\"",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "50723757",
+    "_collection_link": "https://go.postman.co/collection/50723757-7abccab0-06be-444b-b6b3-f368a62f7522?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "New user",
+      "request": {
+        "auth": {
+          "type": "noauth"
+        },
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": " {\r\n \"firstName\": \"Jose\",\r\n \"phone\": \"+10005553535\",\r\n \"address\": \"Calle Central 123\"\r\n }",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{base_url}}/api/v1/users",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "api",
+            "v1",
+            "users"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "New Kit",
+      "request": {
+        "auth": {
+          "type": "bearer",
+          "bearer": [
+            {
+              "key": "token",
+              "value": "{{authToken}}",
+              "type": "string"
+            }
+          ]
+        },
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "\"application/json\"",
+            "type": "text",
+            "disabled": true
+          },
+          {
+            "key": "Authorization",
+            "value": "{{authToken}}",
+            "type": "text",
+            "disabled": true
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": " {\r\n   \"cardId\": 1,\r\n   \"name\": \"MyKit1\"\r\n }",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{base_url}}/api/v1/kits",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "api",
+            "v1",
+            "kits"
+          ],
+          "query": [
+            {
+              "key": "id",
+              "value": "6",
+              "type": "text",
+              "disabled": true
+            },
+            {
+              "key": "name",
+              "value": "\"MyKit\"",
+              "disabled": true
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Obtener kits por usuario(no sirve)",
+      "request": {
+        "auth": {
+          "type": "bearer",
+          "bearer": [
+            {
+              "key": "token",
+              "value": "{{authToken}}",
+              "type": "string"
+            }
+          ]
+        },
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{authToken}}",
+            "type": "text",
+            "disabled": true
+          }
+        ],
+        "url": {
+          "raw": "{{base_url}}/api/v1/kits",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "api",
+            "v1",
+            "kits"
+          ],
+          "query": [
+            {
+              "key": "cardId",
+              "value": "13",
+              "disabled": true
+            },
+            {
+              "key": "name",
+              "value": "Mykit1",
+              "type": "text",
+              "disabled": true
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Obtener kits por nombre",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "\"Bearer\": { {{authToken}}}",
+            "type": "text",
+            "disabled": true
+          }
+        ],
+        "url": {
+          "raw": "{{base_url}}/api/v1/kits/search?name=MyKit1",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "api",
+            "v1",
+            "kits",
+            "search"
+          ],
+          "query": [
+            {
+              "key": "cardId",
+              "value": "13",
+              "disabled": true
+            },
+            {
+              "key": "name",
+              "value": "MyKit1"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Agregar Productos a un kit",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": " {\r\n \"productsList\": [\r\n   {\r\n     \"id\": 44,\r\n     \"quantity\": 2\r\n   }\r\n ]\r\n }",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{base_url}}/api/v1/kits/:id/products",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "api",
+            "v1",
+            "kits",
+            ":id",
+            "products"
+          ],
+          "variable": [
+            {
+              "key": "id",
+              "value": "7"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Solicitar servicio \"Order & Go\"",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{base_url}}/order-and-go/v1/delivery",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "order-and-go",
+            "v1",
+            "delivery"
+          ]
+        }
+      },
+      "response": [
+        {
+          "name": "New Request",
+          "originalRequest": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n    \"deliveryTime\": 7,\r\n    \"productsCount\": 4,\r\n    \"productsWeight\": 2.9\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "{{base_url}}/order-and-go/v1/delivery",
+              "host": [
+                "{{base_url}}"
+              ],
+              "path": [
+                "order-and-go",
+                "v1",
+                "delivery"
+              ]
+            }
+          },
+          "status": "OK",
+          "code": 200,
+          "_postman_previewlanguage": null,
+          "header": [
+            {
+              "key": "Date",
+              "value": "Fri, 26 Dec 2025 20:47:31 GMT"
+            },
+            {
+              "key": "Content-Type",
+              "value": "application/json; charset=utf-8"
+            },
+            {
+              "key": "Content-Length",
+              "value": "136"
+            },
+            {
+              "key": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "key": "Content-Security-Policy",
+              "value": "frame-ancestors *"
+            },
+            {
+              "key": "Etag",
+              "value": "W/\"88-HVWhIRf4vB1T0OPwJKOuRNPRDzM\""
+            },
+            {
+              "key": "Vary",
+              "value": "Origin"
+            },
+            {
+              "key": "X-Powered-By",
+              "value": "Express"
+            }
+          ],
+          "cookie": [],
+          "body": "{\n    \"name\": \"Order and Go\",\n    \"isItPossibleToDeliver\": true,\n    \"hostDeliveryCost\": 3,\n    \"toBeDeliveredTime\": {\n        \"min\": 20,\n        \"max\": 25\n    },\n    \"clientDeliveryCost\": 5\n}"
+        }
+      ]
+    }
+  ],
+  "variable": [
+    {
+      "key": "authToken",
+      "value": "",
+      "type": "default"
+    }
+  ]
+}
