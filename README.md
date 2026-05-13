@@ -46,6 +46,7 @@ I developed a comprehensive **Postman** collection to structure and execute test
 ![Static Badge](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white) ![Static Badge](https://img.shields.io/badge/API_Testing-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Functional_Testing-turquoise?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Test_Case_Desing-436fc7?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue)
 
 **Documentation:** --> [here](https://docs.google.com/spreadsheets/d/1Y5E2fdIlmZP4cGZB2Mc6PGxTToSjCyLT/edit?usp=sharing&ouid=109937368038705362754&rtpof=true&sd=true)
+**Postman collection:** --> [here](https://github.com/Ivarr95/Ivarr95.github.io/blob/main/Urban.Grocers%20Kits%20management.postman_collection.json)
 
 **Test Evidence**:
 
