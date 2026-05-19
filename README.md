@@ -31,6 +31,19 @@ My professional background has provided me with experience in various **testing 
 ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-%233776AB?style=for-the-badge&logo=cplusplus&logoColor=white) ![Static Badge](https://img.shields.io/badge/MATLAB-bb5814?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Assembly-%23007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ## 📂 My Projects
+### 🛴 Urban.Scooter Delivery Platform (Web + Mobile + API) Testing
+**Urban.Scooter** is a delivery platform that allows users to rent scooters for home delivery. It consists of a web application for customers, where they can place rent orders, a mobile application for couriers to manage deliveries and the REST API that connects both to the server and databases. <br>
+My role as of the **QA team** was the test analysis, design, execution and defect reporting for specific features of the three layers and used black-box techniques such as equivalence partitioning and boundary value analysis to validate data integrity, business rules, and system integration.
+<br>
+
+**Key Results & Impact**
++ Designed 240+ test verification points covering UI, forms, and API endpoints: 117 checklist items for web UI, 123 form validation cases (9 input fields using equivalence partitioning & boundary value analysis) and 62 API test cases for 4 endpoints (courier & order databases)
++ Performed cross-platform testing on web, mobile (Android emulator with internet interruption), and API using Postman, Android Studio, and SQL queries to validate database behavior after creating/deleting couriers and updating order status
++ Detected and reported 36 bugs in Jira (6 critical) Examples: orders not removed when courier deleted, invalid login/password constraints, missing HTTP 400 responses, inability to fetch canceled orders
+
+**Tech and tools**: <br>
+Postman | Android Studio| DevTools |SQL | Jira | APIDOC
+
 ### 🛍️ Urban.Grocers web app API testing
 **Urban.Grocers** is a web application for purchasing products online through themed kits, simplifying the acquisition of items for specific events like parties, gatherings, or standard shopping lists. <br>
 As the **QA Engineer** on this project, I was tasked with validating updates to the kit processing logic within the application's API. The API specifications were documented using Apidoc.
