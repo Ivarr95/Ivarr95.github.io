@@ -36,12 +36,12 @@ My professional background has provided me with experience in various **testing 
 ## 📂 My Projects
 
 ### 🛴 Urban.Scooter Delivery Platform (Web + Mobile + API) Testing
-**Urban.Scooter** is a delivery platform that allows users to rent scooters for home delivery. It consists of a web application for customers, where they can place rent orders, a mobile application for couriers to manage deliveries and the REST API that connects both to the server and databases. <br>
+**Urban.Scooter** is a delivery platform that allows users to rent scooters for home delivery. It consists of a web application for customers, where they can place rent orders, a mobile application for couriers to manage deliveries and the **REST API** that connects both to the server and databases. <br>
 My role as of the **QA team** was the test analysis, design, execution and defect reporting for specific features of the three layers (web, API & mobile) and used black-box techniques such as **equivalence partitioning** and **boundary value** analysis to validate data integrity, business rules, and system integration.
 <br>
 
 **Key Results & Impact**
-+ Designed 240+ test verification points covering UI, forms, and API endpoints: 117 checklist items for web UI, 123 form validation cases (9 input fields using equivalence partitioning & boundary value analysis) and 62 API test cases for 4 endpoints (courier & order databases)
++ Designed **240+ test verification points** covering UI, forms, and API endpoints: 117 checklist items for web UI, 123 form validation cases (9 input fields using equivalence partitioning & boundary value analysis) and 62 API test cases for 4 endpoints (courier & order databases)
 + Performed cross-platform testing on web, mobile (Android emulator with internet interruption), and API using **Postman**, **Android Studio**, and **SQL** queries to validate database behavior after creating/deleting couriers and updating order status
 + Detected and reported 36 bugs in Jira (6 critical) Examples: orders not removed when courier deleted, invalid login/password constraints, missing HTTP 400 responses, inability to fetch canceled orders
 
@@ -75,7 +75,7 @@ My role as of the **QA team** was the test analysis, design, execution and defec
 My role as a member of the QA team, was to design and implement an **automated test** suite to validate the complete happy path of the taxi booking process. The goal was to ensure repeatability, and efficiency of regression testing using **Selenium WebDriver** and **pytest** libraries in **Python**. <br>
 
 **Key Results & Impact**:
-+ Developed 10 **automated test scripts** covering 9 critical steps of the taxi booking flow, including address configuration, comfort fare selection, phone number entry, credit card addition, extra requests (2 ice creams, blanket/tissues), and driver info validation from a dynamic modal popup
++ Developed **10 automated test scripts** covering **9 critical** steps of the taxi booking flow, including address configuration, comfort fare selection, phone number entry, credit card addition, extra requests (2 ice creams, blanket/tissues), and driver info validation from a dynamic modal popup
 + Achieved **100% pass rate** across all test cases, confirming end‑to‑end functional correctness of the booking process
 + Implemented explicit waits and dynamic XPath locators (using parent-child references) to handle asynchronous elements and a timer‑based popup, improving test stability
 + Managed test data via JSON files and stored the codebase on [GitHub](https://github.com/Ivarr95/QA-project-Urban-Routes-Automation) with a detailed README for execution instructions
