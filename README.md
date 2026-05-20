@@ -23,16 +23,18 @@ My professional background has provided me with experience in various **testing 
 ### Web Testing <br>
 ![Static Badge](https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Static Badge](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 
-## Mobile Testing
-![Static Badge](https://img.shields.io/badge/ANDROID_STUDIO?style=for-the-badge&logo=androidstudio&logoColor=white&logoSize=auto&labelColor=%23A4C639)
+### Mobile Testing
+![Static Badge](https://img.shields.io/badge/android_studio-%23A4C639?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ### Project Management & Version Control <br>
 ![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue) ![Static Badge](https://img.shields.io/badge/IBM%20RTC-%2300a4d1?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Programming & Scripting <br>
-![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-%233776AB?style=for-the-badge&logo=cplusplus&logoColor=white) ![Static Badge](https://img.shields.io/badge/MATLAB-bb5814?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Assembly-%23007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-%233776AB?style=for-the-badge&logo=cplusplus&logoColor=white) ![Static Badge](https://img.shields.io/badge/MATLAB-bb5814?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Assembly-%23007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Static Badge](https://img.shields.io/badge/sql-%2300758F?logo=mysql&logoColor=white&logoSize=auto)
+
 
 ## 📂 My Projects
+
 ### 🛴 Urban.Scooter Delivery Platform (Web + Mobile + API) Testing
 **Urban.Scooter** is a delivery platform that allows users to rent scooters for home delivery. It consists of a web application for customers, where they can place rent orders, a mobile application for couriers to manage deliveries and the REST API that connects both to the server and databases. <br>
 My role as of the **QA team** was the test analysis, design, execution and defect reporting for specific features of the three layers (web, API & mobile) and used black-box techniques such as **equivalence partitioning** and **boundary value** analysis to validate data integrity, business rules, and system integration.
@@ -44,8 +46,30 @@ My role as of the **QA team** was the test analysis, design, execution and defec
 + Detected and reported 36 bugs in Jira (6 critical) Examples: orders not removed when courier deleted, invalid login/password constraints, missing HTTP 400 responses, inability to fetch canceled orders
 
 **Tech and tools**: <br>
-TEST CASE DESIGN | MANUAL TESTING | FUNCTIONAL TESTING | MOBILE TESTING | ANDROID STUDIO | API TESTING | APIDOC | POSTMAN | SQL | JIRA
-![Static Badge](https://img.shields.io/badge/manual_testing-blue?style=for-the-badge)![Static Badge](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white) |SQL ![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue) |![Static Badge](https://img.shields.io/badge/ANDROID_STUDIO?style=for-the-badge&logo=androidstudio&logoColor=white&logoSize=auto&labelColor=%23A4C639)
+![Static Badge](https://img.shields.io/badge/Test_Case_Desing-turquoise?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/manual_testing-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Functional_Testing-turquoise?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/mobile_testing-%23009b94?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/android_studio-%23A4C639?style=for-the-badge&logo=androidstudio&logoColor=white) ![Static Badge](https://img.shields.io/badge/api_testing-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white) ![Static Badge](https://img.shields.io/badge/sql-%2300758F?logo=mysql&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue)
+
+**Documentation** --> [WIP]
+
+**Postman Collection** --> [here](https://github.com/Ivarr95/Ivarr95.github.io/blob/main/Urban.Scooter%20Testing%20Helpers.postman_collection.json)
+
+**Found bugs in Jira** 
+
+<div style="display:flex; gap:10px;">
+  <a href="assets/ProjectsEvidence/UrbanScootersWebBugs.png" target="_blank">
+    <img src="assets/ProjectsEvidence/UrbanScootersWebBugs.png" alt="Jira Web Bugs" width="550"/>
+  </a>  
+</div>
+<div style="display:flex; gap:10px;">
+  <a href="assets/ProjectsEvidence/UrbanScootersMobileBugs.png" target="_blank">
+    <img src="assets/ProjectsEvidence/UrbanScootersMobileBugs.png" alt="Jira Mobile Bugs" width="550"/>
+  </a>  
+</div>
+<div style="display:flex; gap:10px;">
+  <a href="assets\ProjectsEvidence\UrbanScootersAPIBugs.png" target="_blank">
+    <img src="assets\ProjectsEvidence\UrbanScootersAPIBugs.png" alt="Jira API Bugs" width="550"/>
+  </a>  
+</div>
+
 ### 🛍️ Urban.Grocers web app API testing
 **Urban.Grocers** is a web application for purchasing products online through themed kits, simplifying the acquisition of items for specific events like parties, gatherings, or standard shopping lists. <br>
 As the **QA Engineer** on this project, I was tasked with validating updates to the kit processing logic within the application's API. The API specifications were documented using Apidoc.
@@ -73,7 +97,7 @@ I developed a comprehensive **Postman** collection to structure and execute test
 </div>
 <div style="display:flex; gap:10px;">
   <a href="assets\ProjectsEvidence\UrbanGrocersBugs.png" target="_blank">
-    <img src="assets\ProjectsEvidence\UrbanGrocersBugs.png" alt="Postman test" width="550"/>
+    <img src="assets\ProjectsEvidence\UrbanGrocersBugs.png" alt="Jira bugs" width="550"/>
   </a>  
 </div>
 
@@ -97,12 +121,12 @@ I developed a structured test plan that included detailed verification points an
 
 <div style="display:flex; gap:10px;">
   <a href="assets/ProjectsEvidence/BR012.png" target="_blank">
-    <img src="assets/ProjectsEvidence/BR012.png" alt="Postman test" width="550"/>
+    <img src="assets/ProjectsEvidence/BR012.png" alt="devtools test" width="550"/>
   </a>  
 </div>
 <div style="display:flex; gap:10px;">
   <a href="assets\ProjectsEvidence\UrbanRoutessBugs.png" target="_blank">
-    <img src="assets\ProjectsEvidence\UrbanRoutesBugs.png" alt="Postman test" width="550"/>
+    <img src="assets\ProjectsEvidence\UrbanRoutesBugs.png" alt="Jira bugs" width="550"/>
   </a>  
 </div>
 
