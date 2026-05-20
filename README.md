@@ -30,7 +30,7 @@ My professional background has provided me with experience in various **testing 
 ![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue) ![Static Badge](https://img.shields.io/badge/IBM%20RTC-%2300a4d1?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Programming & Scripting <br>
-![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-%233776AB?style=for-the-badge&logo=cplusplus&logoColor=white) ![Static Badge](https://img.shields.io/badge/MATLAB-bb5814?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Assembly-%23007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Static Badge](https://img.shields.io/badge/sql-%2300758F?logo=mysql&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-%233776AB?style=for-the-badge&logo=cplusplus&logoColor=white) ![Static Badge](https://img.shields.io/badge/MATLAB-bb5814?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Assembly-%23007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Static Badge](https://img.shields.io/badge/sql-%2300758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ## 📂 My Projects
@@ -46,7 +46,7 @@ My role as of the **QA team** was the test analysis, design, execution and defec
 + Detected and reported 36 bugs in Jira (6 critical) Examples: orders not removed when courier deleted, invalid login/password constraints, missing HTTP 400 responses, inability to fetch canceled orders
 
 **Tech and tools**: <br>
-![Static Badge](https://img.shields.io/badge/Test_Case_Desing-turquoise?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/manual_testing-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Functional_Testing-turquoise?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/mobile_testing-%23009b94?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/android_studio-%23A4C639?style=for-the-badge&logo=androidstudio&logoColor=white) ![Static Badge](https://img.shields.io/badge/api_testing-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white) ![Static Badge](https://img.shields.io/badge/sql-%2300758F?logo=mysql&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Test_Case_Desing-turquoise?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/manual_testing-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Functional_Testing-turquoise?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/mobile_testing-%23009b94?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/android_studio-%23A4C639?style=for-the-badge&logo=androidstudio&logoColor=white) ![Static Badge](https://img.shields.io/badge/api_testing-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white) ![Static Badge](https://img.shields.io/badge/sql-%2300758F?style=for-the-badge&logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue)
 
 **Documentation** --> [WIP]
 
@@ -69,6 +69,21 @@ My role as of the **QA team** was the test analysis, design, execution and defec
     <img src="assets\ProjectsEvidence\UrbanScootersAPIBugs.png" alt="Jira API Bugs" width="550"/>
   </a>  
 </div>
+
+### 🚕 Urban.Routes web app automation
+**Urban.Routes** is a web application for requesting urban transportation services and optimizing routes. The platform offers a diverse catalog of options, including taxis, carpooling, bicycles, and scooters. <br>
+My role as a member of the QA team, was to design and implement an **automated test** suite to validate the complete happy path of the taxi booking process. The goal was to ensure repeatability, and efficiency of regression testing using **Selenium WebDriver** and **pytest** libraries in **Python**. <br>
+
+**Key Results & Impact**:
++ Developed 10 **automated test scripts** covering 9 critical steps of the taxi booking flow, including address configuration, comfort fare selection, phone number entry, credit card addition, extra requests (2 ice creams, blanket/tissues), and driver info validation from a dynamic modal popup
++ Achieved **100% pass rate** across all test cases, confirming end‑to‑end functional correctness of the booking process
++ Implemented explicit waits and dynamic XPath locators (using parent-child references) to handle asynchronous elements and a timer‑based popup, improving test stability
++ Managed test data via JSON files and stored the codebase on [GitHub](https://github.com/Ivarr95/QA-project-Urban-Routes-Automation) with a detailed README for execution instructions
+
+**Tech & Tools**: <br>
+![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)![Static Badge](https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)![Static Badge](https://img.shields.io/badge/Github-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Github project** --> [here](https://github.com/Ivarr95/QA-project-Urban-Routes-Automation)
 
 ### 🛍️ Urban.Grocers web app API testing
 **Urban.Grocers** is a web application for purchasing products online through themed kits, simplifying the acquisition of items for specific events like parties, gatherings, or standard shopping lists. <br>
@@ -100,6 +115,7 @@ I developed a comprehensive **Postman** collection to structure and execute test
     <img src="assets\ProjectsEvidence\UrbanGrocersBugs.png" alt="Jira bugs" width="550"/>
   </a>  
 </div>
+
 
 
 ### 🚕 Urban.Routes web app testing
