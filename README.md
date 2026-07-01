@@ -116,7 +116,21 @@ I developed a comprehensive **Postman** collection to structure and execute test
   </a>  
 </div>
 
+### 🥪 Urban.Lunch Mobile App (Android) Testing
+**Urban.Lunch**  is a mobile application (first Android version) that allows users to order meals from various city restaurants and pick them up at predetermined collection points.
+I was responsible for the complete functional and UI validation of the app based on requirements documentation. I analyzed the user journey across 9 screens (pickup selection → dish browsing → order confirmation → tracking → feedback), designed a structured test suite, executed tests on both emulators and physical devices, and reported all findings with professional evidence. <br>
 
+**Key Results & Impact**:
++ Designed and executed 39 test checkpoints (20 UI/design + 19 functional) covering 7 main screens and 2 negative scenarios (geolocation permission denial and empty order submission), validating the complete happy path and critical error handling.
++ Conducted cross-version mobile testing on Android 9 (Honor emulator) and Android 16 (physical Pixel 9a device), identifying compatibility issues such as map rendering failures specifically on older Android versions.
++ Discovered and reported 6 defects including:
+  - Critical mapping issues (pickup points and delivery routes not displaying correctly)
+  - Functional failures (decrement button not removing items from orders)
+  - Data consistency errors (missing estimated delivery and preparation times, incomplete dish descriptions)
++ Provided comprehensive evidence for all defects in Jira (screen recordings, screenshots, and Logcat logs), and delivered structured, actionable feedback to developers to facilitate faster issue resolution.
+
+**Tech & Tools**: <br>
+![Static Badge](https://img.shields.io/badge/manual_testing-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue)
 
 ### 🚕 Urban.Routes web app testing
 **Urban.Routes** is a web application for requesting urban transportation services and optimizing routes. The platform offers a diverse catalog of options, including taxis, carpooling, bicycles, and scooters. <br>
