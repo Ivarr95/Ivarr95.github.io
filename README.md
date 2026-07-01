@@ -132,6 +132,8 @@ I was responsible for the complete functional and UI validation of the app based
 **Tech & Tools**: <br>
 ![Static Badge](https://img.shields.io/badge/manual_testing-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Test_Case_Desing-turquoise?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Test_Case_Execution-436fc7?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/android_studio-%23A4C639?style=for-the-badge&logo=androidstudio&logoColor=white) ![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue)
 
+**Documentation:** --> [here](https://docs.google.com/spreadsheets/d/1qjRTbo1t3yi4FI1d1t3PpqiUeHCR8xfJ/edit?usp=sharing&ouid=109937368038705362754&rtpof=true&sd=true)
+
 ### 🚕 Urban.Routes web app testing
 **Urban.Routes** is a web application for requesting urban transportation services and optimizing routes. The platform offers a diverse catalog of options, including taxis, carpooling, bicycles, and scooters. <br>
 As a member of the Quality Assurance (QA) team, I was responsible for the comprehensive validation of the design and functionality of the new *"Carpool"* feature. **Functional requirements** and **user interface (UI)** designs were provided to me in PDF documents and **Figma** mockups, respectively.
