@@ -130,7 +130,7 @@ I was responsible for the complete functional and UI validation of the app based
 + Provided comprehensive evidence for all defects in Jira (screen recordings, screenshots, and Logcat logs), and delivered structured, actionable feedback to developers to facilitate faster issue resolution.
 
 **Tech & Tools**: <br>
-![Static Badge](https://img.shields.io/badge/manual_testing-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/manual_testing-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Test_Case_Desing-turquoise?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Test_Case_Execution-436fc7?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/android_studio-%23A4C639?style=for-the-badge&logo=androidstudio&logoColor=white) ![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue)
 
 ### 🚕 Urban.Routes web app testing
 **Urban.Routes** is a web application for requesting urban transportation services and optimizing routes. The platform offers a diverse catalog of options, including taxis, carpooling, bicycles, and scooters. <br>
