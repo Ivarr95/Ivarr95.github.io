@@ -4,7 +4,7 @@
 
 - [👤 About me](#-about-me)
 - [🛠 Tech Skills ](#-tech-skills-)
-- [📂 My Projects](#-my-projects)
+- [📂 My Projects](#-my-projects) 
 - [📞 Contact me](#-contact-me)
 
 
