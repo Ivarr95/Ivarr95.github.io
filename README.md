@@ -48,8 +48,6 @@ My role as of the **QA team** was the test analysis, design, execution and defec
 **Tech and tools**: <br>
 ![Static Badge](https://img.shields.io/badge/Test_Case_Desing-turquoise?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/manual_testing-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Functional_Testing-turquoise?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/mobile_testing-%23009b94?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/android_studio-%23A4C639?style=for-the-badge&logo=androidstudio&logoColor=white) ![Static Badge](https://img.shields.io/badge/api_testing-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white) ![Static Badge](https://img.shields.io/badge/sql-%2300758F?style=for-the-badge&logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue)
 
-**Documentation** --> [WIP]
-
 **Postman Collection** --> [here](https://github.com/Ivarr95/Ivarr95.github.io/blob/main/Urban.Scooter%20Testing%20Helpers.postman_collection.json)
 
 **Found bugs in Jira** 
@@ -65,8 +63,8 @@ My role as of the **QA team** was the test analysis, design, execution and defec
   </a>  
 </div>
 <div style="display:flex; gap:10px;">
-  <a href="assets\ProjectsEvidence\UrbanScootersAPIBugs.png" target="_blank">
-    <img src="assets\ProjectsEvidence\UrbanScootersAPIBugs.png" alt="Jira API Bugs" width="550"/>
+  <a href="assets/ProjectsEvidence/UrbanScootersAPIBugs.png" target="_blank">
+    <img src="assets/ProjectsEvidence/UrbanScootersAPIBugs.png" alt="Jira API Bugs" width="550"/>
   </a>  
 </div>
 
@@ -94,7 +92,7 @@ I developed a comprehensive **Postman** collection to structure and execute test
 **Key Results & Impact**:
 + Created and executed a detailed test plan comprising **40 test cases**, ensuring full coverage of the update's requirements.
 + Built a reusable Postman collection with **6 core functions**, streamlining the API testing process.
-+ Identified, documented, and reported **17 defects in Jira**, including **4 critical-severity bugs**, preventing major issues from reaching production.
++ Identified, documented, and reported **16 defects in Jira**, including **6 critical-severity bugs**, preventing major issues from reaching production.
  
 **Tech & Tools**: <br>
 ![Static Badge](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white) ![Static Badge](https://img.shields.io/badge/API_Testing-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Functional_Testing-turquoise?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Test_Case_Desing-436fc7?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=blue)
@@ -111,8 +109,8 @@ I developed a comprehensive **Postman** collection to structure and execute test
   </a>  
 </div>
 <div style="display:flex; gap:10px;">
-  <a href="assets\ProjectsEvidence\UrbanGrocersBugs.png" target="_blank">
-    <img src="assets\ProjectsEvidence\UrbanGrocersBugs.png" alt="Jira bugs" width="550"/>
+  <a href="assets/ProjectsEvidence/UrbanGrocersBugs.png" target="_blank">
+    <img src="assets/ProjectsEvidence/UrbanGrocersBugs.png" alt="Jira bugs" width="550"/>
   </a>  
 </div>
 
@@ -157,8 +155,8 @@ I developed a structured test plan that included detailed verification points an
   </a>  
 </div>
 <div style="display:flex; gap:10px;">
-  <a href="assets\ProjectsEvidence\UrbanRoutessBugs.png" target="_blank">
-    <img src="assets\ProjectsEvidence\UrbanRoutesBugs.png" alt="Jira bugs" width="550"/>
+  <a href="assets/ProjectsEvidence/UrbanRoutesBugs.png" target="_blank">
+    <img src="assets/ProjectsEvidence/UrbanRoutesBugs.png" alt="Jira bugs" width="550"/>
   </a>  
 </div>
 
@@ -168,5 +166,5 @@ I developed a structured test plan that included detailed verification points an
 ## 📞 Contact me
 I´m available for new oportunities and would love to chat with you!
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivarr95+QAEngineer@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ivarramirez-qaengineer)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivarr95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivarramirez-qaengineer)
